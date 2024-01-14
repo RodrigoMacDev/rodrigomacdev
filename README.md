@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Typescript e Tailwind**
 
-- 👨‍💻 Meu portfolio [[portfolio-react-rodmacdev.vercel.app/](https://portfolio-react-rodmacdev.vercel.app/)]
+- 👨‍💻 Meu portfolio [[https://rodrigodesenvolvedor.vercel.app/](https://rodrigodesenvolvedor.vercel.app/)]
 
 - 💬 Me pergunte sobre **react, javascript, css, html...**
 
